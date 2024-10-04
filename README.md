@@ -67,7 +67,3 @@ Este projeto utiliza um ESP32 para monitorar a temperatura, umidade e luminosida
 
 - **Ligar LED**: Publique `device003@on|` no tópico `/TEF/device003/cmd`.
 - **Desligar LED**: Publique `device003@off|` no tópico `/TEF/device003/cmd`.
-
----
-
-Espero que isso ajude! Se precisar de mais alguma coisa, é só avisar. 😊
